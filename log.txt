@@ -1,8 +1,9 @@
-b1b7b9e (HEAD -> main) Task 2.3
+d4f2697 (HEAD -> main, fork/main) Task 2.4
+b1b7b9e Task 2.3
 09de5f0 Task 2.2
 ee40ed2 Task 2.1
 b654037 Task 2.1.1
-46bfd25 (fork/main) Merge pull request #2 from perakasem/origin/main
+46bfd25 Merge pull request #2 from perakasem/origin/main
 62d44cd (fork/origin/main, origin/main) Task 1.2
 2b13782 Merge pull request #1 from perakasem/task-1
 287ba53 (fork/task-1, task-1) random stuff
@@ -12,4 +13,3 @@ ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
 b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
 c8d9d38 adding starter files
-cbe4517 first commit
