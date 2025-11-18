@@ -1,4 +1,8 @@
-2b13782 (HEAD -> origin/main, fork/main, main) Merge pull request #1 from perakasem/task-1
+ee40ed2 (HEAD -> main) Task 2.1
+b654037 Task 2.1.1
+46bfd25 (fork/main) Merge pull request #2 from perakasem/origin/main
+62d44cd (fork/origin/main, origin/main) Task 1.2
+2b13782 Merge pull request #1 from perakasem/task-1
 287ba53 (fork/task-1, task-1) random stuff
 67a0849 Task 1.1
 2b4f164 (origin/main, origin/HEAD) fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
