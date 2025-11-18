@@ -1,4 +1,5 @@
-ee40ed2 (HEAD -> main) Task 2.1
+09de5f0 (HEAD -> main) Task 2.2
+ee40ed2 Task 2.1
 b654037 Task 2.1.1
 46bfd25 (fork/main) Merge pull request #2 from perakasem/origin/main
 62d44cd (fork/origin/main, origin/main) Task 1.2
